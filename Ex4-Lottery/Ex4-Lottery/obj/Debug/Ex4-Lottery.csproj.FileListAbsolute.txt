@@ -1,0 +1,6 @@
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\bin\Debug\Ex4-Lottery.exe.config
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\obj\Debug\Ex4-Lottery.csprojResolveAssemblyReference.cache
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\bin\Debug\Ex4-Lottery.exe
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\bin\Debug\Ex4-Lottery.pdb
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\obj\Debug\Ex4-Lottery.exe
+C:\Users\zzp\Desktop\Ex4-Lottery\Ex4-Lottery\obj\Debug\Ex4-Lottery.pdb
